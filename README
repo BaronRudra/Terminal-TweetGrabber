@@ -1,0 +1,7 @@
+How to Run
+
+Requirements:
+-Twitter module for Python
+-Python
+
+Goto Terminal, type python TerminalTweetGrabber.py and press return.
